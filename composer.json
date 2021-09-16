@@ -1,0 +1,22 @@
+{
+    "name": "zongrzhang/tools",
+    "description": "zongrzhang tools",
+    "type": "library",
+    "require": {
+        "php": ">=7.3",
+        "composer-runtime-api": "^2.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zongrzhang\\Tools\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zzr",
+            "email": "zzr100@126.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
